@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="Weather Channel US" tvg-language="English" tvg-country="USA"
+#EXTINF:0 group-title="Documentary",Weather Channel US
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:0 tvg-name="Al Sharqiya" tvg-language="Arabic" tvg-country="IQ" tvg-id="Al Sharqiya" tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" group-title="News",Al Sharqiya (News) (IQ) (Arabic)
+#EXTINF:0 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" group-title="News",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
-#EXTINF:0 tvg-name="Alijazeera Documentary" tvg-language="Arabic" tvg-country="QA" tvg-id="Alijazeera Doc" tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg" group-title="Documentary",Alijazeera Documentary (Documentary) (QA) (Arabic)
+#EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg" group-title="Documentary",Alijazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 tvg-name="3/24" tvg-language="Spanish" tvg-country="ES"
