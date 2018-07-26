@@ -12,30 +12,5 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:0 tvg-logo="http://e04-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b6/238518.png",3/24
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.ts
 
-#EXTINF:-1,ES: TV4 La Vall
+#EXTINF:-1 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png",TV4 La Vall
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12868.ts
-
-#EXTINF:0 group-title="Streams",Russia Today
-https://secure-streams.akamaized.net/rt/index2500.m3u8
-#EXTINF:0,Russia Today Doc
-https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
-#EXTINF:0,Russia Today (Arabic)
-https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
-#EXTINF:0,RBK
-http://e8.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:0 tvg-id="brodilo",Brodilo TV
-http://brodilo.tv/channel.php
-
-#EXTINF:0 group-title="Youtube Live",Sky News
-http://youtu.be/XOacA3RYrXk
-#EXTINF:0 group-title="Youtube Live",Sky News 720p
-https://www.youtube.com/watch?v=XOacA3RYrXk,720
-
-#EXTINF:0 group-title="Videos",Youtube
-https://www.youtube.com/watch?v=iNJdPyoqt8U
-#EXTINF:0,MKV
-http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
-#EXTINF:0,MP4
-http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_30mb.mp4
-#EXTINF:0,Music
-http://vodcasts.eu/media/malandra.mp3
