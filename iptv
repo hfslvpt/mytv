@@ -6,7 +6,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:0 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" group-title="News",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg" group-title="Documentary",Alijazeera
+#EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg",Alijazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:-1 tvg-name="3/24" tvg-language="Spanish" tvg-country="ES"
