@@ -1,20 +1,17 @@
 #EXTM3U
-
-
 #EXTINF:0 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" group-title="Arab",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg",Alijazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/uploads/tx_lfrogmom/media/28-1120_import.png",2M MAROC
+EXTINF:0 tvg-logo="https://maroc.mom-rsf.org/uploads/tx_lfrogmom/media/28-1120_import.png",2M MAROC
 http://54.37.255.204:9977/live/roy/iptv/21421.ts
-
 
 
 
 #EXTINF:0 tvg-logo="http://e04-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b6/238518.png" group-title="Spanish",3/24
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.ts
 
-#EXTINF:-1 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png",TV4 La Vall
+#EXTINF:0 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png",TV4 La Vall
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12868.ts
