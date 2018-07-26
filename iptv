@@ -9,7 +9,7 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg",Alijazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:0,3/24
+#EXTINF:0 tvg-logo="http://e04-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b6/238518.png",3/24
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.ts
 
 #EXTINF:-1,ES: TV4 La Vall
