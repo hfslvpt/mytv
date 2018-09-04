@@ -1,17 +1,247 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.alsharqiyatv.com/images/png-3.png" group-title="Arab",Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg",Alijazeera
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-EXTINF:0 tvg-logo="https://maroc.mom-rsf.org/uploads/tx_lfrogmom/media/28-1120_import.png",2M MAROC
-http://54.37.255.204:9977/live/roy/iptv/21421.ts
-
-
 
 #EXTINF:0 tvg-logo="http://e04-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/b6/238518.png" group-title="Spanish",3/24
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.ts
 
-#EXTINF:0 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png",TV4 La Vall
+#EXTINF:-1 tvg-logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png",TV4 La Vall
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12868.ts
+
+#EXTINF:0 tvg-name="ABC News" tvg-language="English" tvg-country="US" tvg-id="ABC News" tvg-logo="http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg" group-title="News",ABC News (News) (US) (English)
+http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8
+
+#EXTINF:0 tvg-name="Al Yawm" tvg-language="Arabic" tvg-country="LB" tvg-id="Al Yawm" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/07/Watch-Palestine-Al-Yawm-Live-TV-from-Palestine.jpg" group-title="News",Al Yawm (News) (LB) (Arabic)
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:0 tvg-name="BBC Arabia" tvg-language="Arabic" tvg-country="SA" tvg-id="BBC Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_bbc_arabic.PNG/200px-Logo_bbc_arabic.PNG" group-title="News",BBC Arabia (News) (SA) (Arabic)
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+#EXTINF:0 tvg-name="Bernama TV" tvg-language="Indonesian" tvg-country="MY" tvg-id="Bernama TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJvPKB8CS3GMF7tSDMN0EUD-sQ_43kxKlfDzOxofiarMlWUmHA8_iL4w" group-title="News",Bernama TV (News) (MY) (Indonesian)
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8
+
+#EXTINF:0 tvg-name="Bulgaria On Air" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Bulgaria On Air" tvg-logo="http://www.predavatel.com/bg/tv/bulgariaonair.png" group-title="News",Bulgaria On Air (News) (BG) (Bulgarian)
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="C-Span 2" tvg-language="English" tvg-country="US" tvg-id="C-Span 2" tvg-logo="https://www.getsatellite.com/channels/cspan2.png" group-title="News",C-Span 2 (News) (US) (English)
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-name="C-Span 3" tvg-language="English" tvg-country="US" tvg-id="C-Span 3" tvg-logo="https://fiber.storage.googleapis.com/channels/logos/cspan3.png" group-title="News",C-Span 3 (News) (US) (English)
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-name="C-Span" tvg-language="English" tvg-country="US" tvg-id="C-Span" tvg-logo="http://firstladies.c-span.org/Images/WebSkin/FL_WebHeader_cspanLogo.png" group-title="News",C-Span (News) (US) (English)
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-name="CNN Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="CNN Turk" tvg-logo="http://canlitvyayinakisi.com/wp-content/themes/point/kanal/CNN.jpg" group-title="News",CNN Turk (News) (TR) (Turkish)
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:0 tvg-name="Canal 26" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:0 tvg-name="Dunya News" tvg-language="Urdu" tvg-country="PK" tvg-id="Dunya News" tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/urdunews-logo.png" group-title="News",Dunya News (News) (PK) (Urdu)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8
+
+#EXTINF:0 tvg-name="IBN Lokmat" tvg-language="Marathi/Hindi" tvg-country="IN" tvg-id="IBN Lokmat" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvN_dEm213mo7LWa2GZ2vHthhi_htjg9L2rXtqzBU44FdRGkFzAPj0wd8" group-title="News",IBN Lokmat (News) (IN) (Marathi/Hindi)
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+
+#EXTINF:0 tvg-name="India TV" tvg-language="Hindi" tvg-country="IN" tvg-id="India TV" tvg-logo="http://images.indiatvnews.com/businessindia/India_TV_awards2634.jpg" group-title="News",India TV (News) (IN) (Hindi)
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+
+#EXTINF:0 tvg-name="Irinn" tvg-language="Arabic" tvg-country="IR" tvg-id="Irinn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/IRINN_logo.svg/97px-IRINN_logo.svg.png" group-title="News",Irinn (News) (IR) (Arabic)
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+
+#EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News",Lancelot TV (News) (ES) (Spanish)
+rtmp://62.210.141.18:1935/directo/lancelot.television
+
+#EXTINF:0 tvg-name="Oman" tvg-language="Arabic" tvg-country="OM" tvg-id="Oman" tvg-logo="http://epapersbuzz.com/wp-content/uploads/2014/05/Oman-News-1-160x90.jpg" group-title="News",Oman (News) (OM) (Arabic)
+http://38.96.148.30:1935/live/omantv1/playlist.m3u8
+
+#EXTINF:0 tvg-name="P Tv News" tvg-language="English" tvg-country="US" tvg-id="P Tv News" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQYPqZKu4ZWhxXIaziHoqWAFlAxuBJABIDbgfzonyq_beYoD2nVGm-IQQ0" group-title="News",P Tv News (News) (US) (English)
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+
+#EXTINF:0 tvg-name="RBC TV" tvg-language="Russian" tvg-country="RU" tvg-id="RBC TV" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="News",RBC TV (News) (RU) (Russian)
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:0 tvg-name="RT Arabic" tvg-language="Arabic" tvg-country="SA" tvg-id="RT Arabic" tvg-logo="http://arabic.rt.com/static/img/og-logo-rt.png" group-title="News",RT Arabic (News) (SA) (Arabic)
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:0 tvg-name="RTE News Now" tvg-language="English" tvg-country="IE" tvg-id="RTE News Now" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS40_g6DbS8raEadZUTzBIL3EgRFy6Y9lMMvG__eN_mGPnCUPEjCk5uog" group-title="News",RTE News Now (News) (IE) (English)
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-name="Rudaw tv" tvg-language="Kurdish" tvg-country="IQ" tvg-id="Rudaw tv" tvg-logo="http://www.skwidmedia.com/SKWID/images/rudaw.gif" group-title="News",Rudaw tv (News) (IQ) (Kurdish)
+http://livestreaming.itworkscdn.net/rudawlive/rudawtv_360p/playlist.m3u8
+
+#EXTINF:0 tvg-name="SNTV" tvg-language="Arabic" tvg-country="SO" tvg-id="SNTV" tvg-logo="http://static.itnproductions.co.uk/itn/2013/04/SNTV-logo-240x132.jpg" group-title="News",SNTV (News) (SO) (Arabic)
+http://www.axadledirect.com:1936/13/stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="Sama Syria TV" tvg-language="Arabic" tvg-country="SY" tvg-id="Sama Syria TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVANADqalbD33f8O-mcv7PeDrtnJCltmVIKpYnvH7-XDKS6uvfMyndeg" group-title="News",Sama Syria TV (News) (SY) (Arabic)
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:0 tvg-name="Sky TG24" tvg-language="Italian" tvg-country="IT" tvg-id="Sky TG24" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/SKY-TG24.jpeg" group-title="News",Sky TG24 (News) (IT) (Italian)
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+
+#EXTINF:0 tvg-name="TCH" tvg-language="Russian" tvg-country="RU" tvg-id="TCH" tvg-logo="http://www.tch.com/images/TCH_logo_final_header_small.jpg" group-title="News",TCH (News) (RU) (Russian)
+http://sibinformburo.cdnvideo.ru:1935/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+
+#EXTINF:0 tvg-name="TRT Diyanet" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Diyanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Trt_diyanet.png/220px-Trt_diyanet.png" group-title="News",TRT Diyanet (News) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+
+#EXTINF:0 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Haber" tvg-logo="http://33.media.tumblr.com/tumblr_m9vlacoUZ21rn91il.png" group-title="News",TRT Haber (News) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:0 tvg-name="TRT World" tvg-language="English" tvg-country="TR" tvg-id="TRT World" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5ax_obC7mutun0qAFQjrSiMa9P5_G7nIFIi6SKAWxSrA0cqJHtVU-Iuk" group-title="News",TRT World (News) (TR) (English)
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:0 tvg-name="Weather Nation" tvg-language="English" tvg-country="US" tvg-id="Weather Nation" tvg-logo="http://i.imgur.com/1JEerNY.jpg" group-title="News",Weather Nation (News) (US) (English)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:0 tvg-name="Xtremo channel" tvg-language="Spanish" tvg-country="ES" tvg-id="Xtremo channel" tvg-logo="http://dominicaninternet.com/servicios/images/xtremo_logo_player.png" group-title="News",Xtremo channel (News) (ES) (Spanish)
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:0 tvg-name="Al Hurra" tvg-language="Arabic" tvg-country="IQ" tvg-id="Al Hurra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Al_Hurra_logo.png" group-title="Documentary",Al Hurra (Documentary) (IQ) (Arabic)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+
+#EXTINF:0 tvg-name="Alijazeera Documentary" tvg-language="Arabic" tvg-country="QA" tvg-id="Alijazeera Doc" tvg-logo="http://www.aljazeera.com/mritems/images/2006/12/31/1_204240_1_5.jpg" group-title="Documentary",Alijazeera Documentary (Documentary) (QA) (Arabic)
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+
+#EXTINF:0 tvg-name="Israeli Ch 10" tvg-language="Israeli" tvg-country="IL" tvg-id="Israeli Ch 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Channel_10_logo.jpg" group-title="Documentary",Israeli Ch 10 (Documentary) (IL) (Israeli)
+http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_%2C1000%2C1500%2C1800%2C/playlist.m3u8
+
+#EXTINF:0 tvg-name="RTVida" tvg-language="Spanish" tvg-country="ES" tvg-id="RTVida" tvg-logo="http://www.eniyitv.com/wp-content/uploads/2013/03/rtvida-tv-logo.png" group-title="Documentary",RTVida (Documentary) (ES) (Spanish)
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-name="Santuario De Fatima" tvg-language="Portuguese" tvg-country="PT" tvg-id="Santuario De Fatima" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuM-QPCvveAGZE23JT8fZBIhRMTWKENGj_OY8F6GXNcaY0-SAnn8t-pg" group-title="Documentary",Santuario De Fatima (Documentary) (PT) (Portuguese)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:0 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Trt_belgesel_logo.png" group-title="Documentary",TRT Belgesel (Documentary) (TR) (Turkish)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:0 tvg-name="324" tvg-language="Spanish" tvg-country="ES" tvg-id="324" tvg-logo="http://www.eleconomista.es/CanalPDA/files/imagecache/220x/logo_324.png" group-title="Entertainment",324 (Entertainment) (ES) (Spanish)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+
+#EXTINF:0 tvg-name="Boss TV" tvg-language="Tamil" tvg-country="IN" tvg-id="Boss TV" tvg-logo="http://extreme.com/media/img/extreme/tv_guide.png" group-title="Entertainment",Boss TV (Entertainment) (IN) (Tamil)
+rtmp://bosstv1.chennaistream.net/bosstv/bosstv.stream
+
+#EXTINF:0 tvg-name="Cherno More" tvg-language="Bulgarian" tvg-country="BG" tvg-id="Cherno More" tvg-logo="http://frocus.net/images/logotv/cherno-more-tv.gif" group-title="Entertainment",Cherno More (Entertainment) (BG) (Bulgarian)
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="Cnc3" tvg-language="English" tvg-country="TT" tvg-id="Cnc3" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRs7bMoD5c7mf0WvrxdL8e3KrSoeCTQdIFF1dZwYo-SSjyaLNV1oZ5yMw" group-title="Entertainment",Cnc3 (Entertainment) (TT) (English)
+rtmp://live.cnc3.co.tt:1935/livepkgr/livestream
+
+#EXTINF:0 tvg-name="DAS ERSTE" tvg-language="German" tvg-country="DE" tvg-id="DAS ERSTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/210px-Das_Erste-Logo_klein.svg.png" group-title="Entertainment",DAS ERSTE (Entertainment) (DE) (German)
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8?b?b*t$
+
+#EXTINF:0 tvg-name="Future TV" tvg-language="Arabic" tvg-country="LB" tvg-id="Future TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/future_tv_satellite.jpg" group-title="Entertainment",Future TV (Entertainment) (LB) (Arabic)
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+
+#EXTINF:0 tvg-name="Hiru TV" tvg-language="Sinhalese" tvg-country="LK" tvg-id="Hiru TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-djKaMHfThkjIw-tS1hAuaZ2SAhqTbPcyUjLThvijpoIkZGSI3jPWD4g" group-title="Entertainment",Hiru TV (Entertainment) (LK) (Sinhalese)
+http://cdncities.com/8012/8012/playlist.m3u8
+
+#EXTINF:0 tvg-name="Jame Jam" tvg-language="Arabic" tvg-country="IR" tvg-id="Jame Jam" tvg-logo="http://www.satfrequency.com/wp-content/uploads/2015/01/Jame-Jam-Sat.jpg" group-title="Entertainment",Jame Jam (Entertainment) (IR) (Arabic)
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+
+#EXTINF:0 tvg-name="KCV TV" tvg-language="Malayalam" tvg-country="IN" tvg-id="KCV TV" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/6/6/8/16681608/16681608%2C66x66%2Cr:5.jpg" group-title="Entertainment",KCV TV (Entertainment) (IN) (Malayalam)
+rtmp://cdn.live5.in/live//kcv
+
+#EXTINF:0 tvg-name="MTC Melli Tv" tvg-language="Arabic" tvg-country="IR" tvg-id="MTC Melli Tv" tvg-logo="http://www.mellitv.com/images/sitelogo.png" group-title="Entertainment",MTC Melli Tv (Entertainment) (IR) (Arabic)
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-name="MTM" tvg-language="English" tvg-country="JM" tvg-id="MTM" tvg-logo="http://www.tv14hd.com/data/uploads/MTM-TV.jpg" group-title="Entertainment",MTM (Entertainment) (JM) (English)
+http://media.btbn.tv/mtmtv/live/playlist.m3u8
+
+#EXTINF:0 tvg-name="P TV" tvg-language="Urdu" tvg-country="PK" tvg-id="P TV" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTv7VEhBVcPqnzNy9sQOn57CrAMqsG6HHEV4MtHPCcETKlmB6U54cCD_8I" group-title="Entertainment",P TV (Entertainment) (PK) (Urdu)
+http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
+
+#EXTINF:-1 tvg-logo="http://teamblue65.fhio.pw/IMAGENS/CANAIS/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2018 by TeamBlue)
+http://live.impresa.pt/live/sic/sic.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS (Copyright © 2018 by TeamBlue)
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="PORTUGAL",BLOOMBERG (Copyright © 2018 by TeamBlue)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/Sky_News_2015_logo.svg/revision/latest/scale-to-width-down/300?cb=20150530220244" group-title="PORTUGAL",SKY NEWS (Copyright © 2018 by TeamBlue)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.reproductivelawyer.com/wp-content/uploads/2016/10/cbs-news.png" group-title="PORTUGAL",CBSN (Copyright © 2018 by TeamBlue)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="PORTUGAL",DW (ENGLISH) (Copyright © 2018 by TeamBlue)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="PORTUGAL",CANCAO NOVA (Copyright © 2018 by TeamBlue)
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" group-title="PORTUGAL",TCV (Copyright © 2018 by TeamBlue)
+http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="http://bit.ly/IMG_TV5MONDE" group-title="PORTUGAL",TV5 MONDE (Copyright © 2018 by TeamBlue)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING DANCE FLOOR MUSIC (Copyright © 2018 by TeamBlue)
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1449003921.png" group-title="PORTUGAL",DJING HITS (Copyright © 2018 by TeamBlue)
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2016/02/djing-ibiza-poster.png" group-title="PORTUGAL",DJING IBIZA (Copyright © 2018 by TeamBlue)
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MCS-Extreme.png" group-title="PORTUGAL",MCS EXTREME (Copyright © 2018 by TeamBlue)
+http://suissetv.dynu.com:6969/live/jH9Za2hzWP/LIlHT7ruig/2442.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="PORTUGAL",REDE TV! (Copyright © 2018 by TeamBlue)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT (Copyright © 2018 by TeamBlue)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1024px-Logotipo_do_SBT.svg.png" group-title="PORTUGAL",SBT HD (Copyright © 2018 by TeamBlue)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1,ES: 3/24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9226.ts
+
+#EXTINF:-1,ES: EITB Sat
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8831.ts
+
+#EXTINF:-1,ES: Galicia TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8828.ts
+
+#EXTINF:-1,ES:  Russia Today
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8420.ts
+
+#EXTINF:-1,ES: 13 tv
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7627.ts
+
+#EXTINF:-1,ES: DECASA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/12878.ts
+
+#EXTINF:-1,ES: TVi  24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2613.ts
+
+#EXTINF:-1,ES: CYL TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10003.ts
+
+#EXTINF:-1,ES: Canal Parlamento
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11521.ts
+
+#EXTINF:-1,ES: ENERGY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2296.ts
+
+#EXTINF:-1,ES: B_GLOBAL
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8901.ts
+
+#EXTINF:-1,ES: Miami TV Spain
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11473.ts
+
+#EXTINF:-1,ES: VIAJAR
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11570.ts
+
+#EXTINF:-1,ES: ERTV es
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21139.ts
+
+#EXTINF:-1,ES: RTV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13140.ts
